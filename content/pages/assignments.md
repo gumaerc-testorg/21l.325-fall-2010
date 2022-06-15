@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides a description of the final project of the course
+  along with examples of student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ ASSIGNMENTS
 MIT Student
 {{< tdclose >}}
 {{< tdopen >}}
-Sketching the Present ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21l_325f10_assn01)) (Courtesy of MIT Students. Used with permission.)
+Sketching the Present ({{% resource_link fc2a33d1-faba-1b3b-7e89-3e82ad43f567 "PDF - 5.0MB" %}}) (Courtesy of MIT Students. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -41,7 +43,7 @@ Sketching the Present ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21l_325f10_ass
 MIT Student
 {{< tdclose >}}
 {{< tdopen >}}
-1000 Words is Nothing: The Photographic Present in Relation to Informational Extraction ([PDF]({{< baseurl >}}/resources/mit21l_325f10_assn02)) (Courtesy of MIT Student. Used with permission.)
+1000 Words is Nothing: The Photographic Present in Relation to Informational Extraction ({{% resource_link 0aec6eff-d024-6905-ebb1-f6118a410233 "PDF" %}}) (Courtesy of MIT Student. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
