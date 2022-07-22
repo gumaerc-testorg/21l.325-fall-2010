@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the list of readings for each week of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: d70ddc78-de49-fd3e-c5dd-bcea6d155dac
 ---
