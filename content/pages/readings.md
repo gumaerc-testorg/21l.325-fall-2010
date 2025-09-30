@@ -32,7 +32,7 @@ READINGS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Augustine. "Time and Eternity." In _Confessions._ Translated by Henry Chadwick. Oxford University Press, 1991. ISBN: 9780192817792. \[Preview with [Google Books](http://books.google.com/books?id=_wusCvC4yOcC&printsec=frontcover#v=onepage&q&f=false)\]
+Augustine. "Time and Eternity." In _Confessions._ Translated by Henry Chadwick. Oxford University Press, 1991. ISBN: 9780192817792. \[Preview with {{% resource_link "0e494914-37af-40ca-93d0-454d5606c5ed" "Google Books" %}}\]
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +55,7 @@ Bell, Gordon, and Jim Gemmell. "Vision" and "MyLifeBits." In _Total Recall: How 
 
 ### Optional
 
-Jameson, Fredric. "[The End of Temporality](http://www.jstor.org/pss/10.1086/377726)." _Critical Inquiry_ 29, no. 4 (Summer 2003): 695-718.
+Jameson, Fredric. "{{% resource_link "75c12933-61bd-4683-acac-c17aae234478" "The End of Temporality" %}}." _Critical Inquiry_ 29, no. 4 (Summer 2003): 695-718.
 
 
 {{< tdclose >}}
@@ -104,7 +104,7 @@ Wordsworth, William. "Lines, Written a Few Miles Above Tintern Abbey."
 {{< tdopen >}}
 
 
-Wordsworth, William. "[Residence In London](http://www.cf.ac.uk/encap/skilton/restrict/wworth02.html)." In _The Prelude_. Oxford University Press, 1970. ISBN: 9780192810748.
+Wordsworth, William. "{{% resource_link "aaf6200c-afa6-420a-9919-f44e92aa029e" "Residence In London" %}}." In _The Prelude_. Oxford University Press, 1970. ISBN: 9780192810748.
 
 Keats, John. "Ode to Melancholy", "Ode to a Nightingale", and "To Autumn."
 
@@ -127,7 +127,7 @@ Keats, John. "Ode to Melancholy", "Ode to a Nightingale", and "To Autumn."
 
 Baudelaire, Charles. "The Painter of Modern Life." In _Selected Writings on Art and Literature_. Translated by P. E. Charvet. Penguin Classics, 1993, pp. 390-435. ISBN: 9780140446067.
 
-———. "[To a Passer-by](http://fleursdumal.org/poem/224)" (À Une Passante).
+———. "{{% resource_link "9b757413-2840-46ef-8cfe-f4b6a51c912e" "To a Passer-by" %}}" (À Une Passante).
 
 ### Optional
 
@@ -190,7 +190,7 @@ Edison, Thomas, and Lumiere Bros. _Landmarks of Early Film, Vol. 1._, selected s
 
 Benjamin, Walter. "The Work of Art in the Age of its Technological Reproducibility." In _Selected Writings: Volume 3, 1935-1938_. Translated by Edmund Jephcott, Howard Eiland, et al. Edited by Howard Eiland and Michael W. Jenning. Harvard University Press, 2002, pp. 101-33. ISBN: 9780674008960. (Second Version - ca. 1936).
 
-Gunning, Tom. "The Cinema of Attractions: Early Film, Its Spectator and the Avant-Garde." In _The Cinema of Attractions Reloaded_. Amsterdam University Press, 2007. ISBN: 9789053569443. \[Preview with [Google Books](http://books.google.com/books?id=GQOrSC7GzWMC&printsec=frontcover#v=onepage&q&f=false)\]
+Gunning, Tom. "The Cinema of Attractions: Early Film, Its Spectator and the Avant-Garde." In _The Cinema of Attractions Reloaded_. Amsterdam University Press, 2007. ISBN: 9789053569443. \[Preview with {{% resource_link "cba229a4-7991-4c18-8088-916dbcda34a3" "Google Books" %}}\]
 
 ### Optional
 
